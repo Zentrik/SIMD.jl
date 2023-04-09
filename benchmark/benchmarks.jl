@@ -1,4 +1,4 @@
-using BenchmarkTools
+using BenchmarkTools, SIMD
 
 const SUITE = BenchmarkGroup()
 
